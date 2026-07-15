@@ -1,0 +1,8 @@
+CUSTOMER CHURN ANALYTICS SUMMARY
+==================================================
+
+Total Customers : 7043
+Churn Rate      : 26.54%
+Average Charges : 64.76
+Average Tenure  : 32.37
+Average CLTV    : 4400.30
